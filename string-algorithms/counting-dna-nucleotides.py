@@ -3,9 +3,11 @@
 # the respective number of times that the symbols
 # 'A', 'C'. 'G', and 'T' occur in s
 
+import sys
+
 
 def main():
-    with open('data.txt') as fs:
+    with open(sys.argv[1]) as fs:
         dna = fs.read()
 
     countA = dna.count('A')
