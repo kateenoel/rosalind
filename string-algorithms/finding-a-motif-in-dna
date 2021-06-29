@@ -2,7 +2,6 @@
 # most 1 kbp)
 # Return all locations of t as a substring of s
 
-
 import sys
 from pathlib import Path
 
