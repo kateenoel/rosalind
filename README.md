@@ -1,2 +1,2 @@
 # rosalind
-Solutions to bioinformatics problems posed by the Rosalind community
+Solutions to bioinformatics and programming problems posed by the Rosalind community
